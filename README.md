@@ -1,6 +1,6 @@
 ### 💫 About Me
 Hey there! I'm Bhuvan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
-I'm a curious and passionate developer eager to learn tech through experiments and building projects. My areas of interest have been in Web Development(MERN stack) and Low Level Systems. I'm currently exploring Computer Networks and Database Management.
+I'm a curious and passionate developer eager to learn tech through experiments and building projects. My areas of interest have been in Web Development(MERN stack) and Low Level Systems. I'm currently exploring Computer Networks and Operating Systems.
 
 ---
 
@@ -32,12 +32,6 @@ I'm a curious and passionate developer eager to learn tech through experiments a
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SysRet8-BMS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SysRet8-BMS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SysRet8-BMS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhuvan-m-s-217465331/) 
