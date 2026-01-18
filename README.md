@@ -1,15 +1,15 @@
-### 💫 About Me
-Hey there! I'm Bhuvan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
-I'm a curious and passionate developer eager to learn tech through experiments and building projects. My areas of interest have been in Web Development(MERN stack) and Low Level Systems. I'm currently exploring Computer Networks and Operating Systems.
+### 🙃 About Me
+Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+I'm Bhuvan, a curious and passionate developer eager to explore tech and build fun and value-driven projects. My areas of interest have been in Web Development(MERN stack) and Low Level Systems. I'm currently exploring Computer Networks and Operating Systems.
 
 ---
 
 ### 🚀 My Projects
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
-| **Ver.ol** | **MERN-based Version Control** System. **Full-Snapshot Commit Model** to capture/update changes in workspace. **Terminal-style interface**, **Lazy loaded file-system** to navigate complex projects. | MERN-stack, Zustand, TailWind CSS, TypeScript |
-| **WebRunnr** | **Client-side Code Execution** in your browser. Leverages **WebAssembly(WASM)**, **iframes** and **Webworkers**. **Zero latency**, **Secure** playground for developers. | TypeScript, npm/pnpm |
-| **FeynTerm** | **CLI-based** Learning Tool inspired from Feynman Technique. Feedback(scores) using an **evaluation algorithm** based on keyword count. Supports **Real-time** input, **text files** and **PDFs**. Utilizes a **custom-built OCR Engine** to extract text from files. | C, MuPDF library | 
+| [**Ver.ol**](https://github.com/SysRet8-BMS/Ver.ol) | **MERN-based Version Control** System. **Full-Snapshot Commit Model** to capture/update changes in workspace. **Terminal-style interface**, **Lazy loaded file-system** to navigate complex projects. | MERN-stack, Zustand, TailWind CSS, TypeScript |
+| [**WebRunnr**](https://github.com/SysRet8-BMS/WebRunnr) | **Client-side Code Execution** in your browser. Leverages **WebAssembly(WASM)**, **iframes** and **Webworkers**. **Zero latency**, **Secure** playground for developers. | TypeScript, npm/pnpm |
+| [**FeynTerm**](https://github.com/SysRet8-BMS/FeynTerm) | **CLI-based** Learning Tool inspired from Feynman Technique. Feedback(scores) using an **evaluation algorithm** based on keyword count. Supports **Real-time** input, **text files** and **PDFs**. Utilizes a **custom-built OCR Engine** to extract text from files. | C, MuPDF library | 
 
 ---
 
